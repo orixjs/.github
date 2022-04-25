@@ -1,2 +1,2 @@
 # .github
-A nodejs framework using HTTP, WebSockets, and TCP Sockets, with a native [OrixDB](https://github.com/orixdb) integration
+A nodejs framework using HTTP, WebSockets, and TCP Sockets, with a native [OrixDB](https://github.com/orixdb) integration.
